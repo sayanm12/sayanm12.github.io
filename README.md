@@ -1,5 +1,5 @@
 # Welcome!
-I am a third year PhD student working under the supervision of **Dr. Souvik Roy** in the **_Economic Research Unit_** at the **_Indian Statistical Institute, Kolkata_**. Prior to this, I completed my Masters in Statistics (M.Stat) from the Indian Statistical Institute, Kolkata.
+I am a third year PhD student working under the supervision of **Dr. Souvik Roy** in the **_Economic Research Unit_** at the **_Indian Statistical Institute, Kolkata_**. Prior to this, I completed my Masters in Statistics (M.Stat) from the Indian Statistical Institute, Kolkata. [Image](imeg)
 
 My primary research interests include evolution and learning in games. I am also interested in various stochastic models arising in games.
 # Research
