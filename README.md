@@ -4,7 +4,7 @@ I am a third year graduate student working under the supervision of [**Dr. Souvi
 # Research Interests
 - Dynamic models of evolution and learning in games.
 - Bayesian evolution in games.
-- 
+- Evolution of games on large networks
 
 My primary research interests include dynamic models of deterministic and stochastic evolution and learning in complete/incomplete information games.
 # Research
