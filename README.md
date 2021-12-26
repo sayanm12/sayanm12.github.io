@@ -9,7 +9,7 @@ My primary research interests include evolution and learning in games. I am also
 - "_**Medium-run convergence in continuum supermodular games**_" with Ratul Lahkar and Souvik Roy (in preparation).
 - "_**Stochastic Evolution under smooth perturbations in continuum games**_" with Ratul Lahkar and Souvik Roy (working paper)
 - "_**Externalities in aggregative games**_"
-- "_**Grahon valued evolution in games**_" with Soumendu Sundar Mukherjee and Souvik Roy.
+- "_**Graphon valued stochastic evolution in games**_" with Soumendu Sundar Mukherjee and Souvik Roy.
 - 
 # Talks and presentations
 
