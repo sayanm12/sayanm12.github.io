@@ -3,7 +3,7 @@ I am a third year PhD student working under the supervision of **Dr. Souvik Roy*
 
 My primary research interests include evolution and learning in games. I am also interested in various stochastic models arising in games.
 # Research
-- "_**Generalized perturbed best response dynamics with a continuum of strategies**_" with Ratul Lahkar and Souvik Roy (forthcoming in **Journal of Economic Theory, 2021**).
+- "![#1589F0](_**Generalized perturbed best response dynamics with a continuum of strategies**_) `#1589F0`" with Ratul Lahkar and Souvik Roy (forthcoming in **Journal of Economic Theory, 2021**).
 - "_**Regularized Bayesian best response learning in finite games**_" with Souvik Roy (submitted).
 - "_**Perturbed Bayesian best response dynamics under continuum logit choice**_" with Souvik Roy (in preparation).
 - "_**Medium-run convergence in continuum supermodular games**_" with Ratul Lahkar and Souvik Roy (in preparation).
@@ -14,5 +14,5 @@ My primary research interests include evolution and learning in games. I am also
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](img.jpeg)
+[Link](url) and ![Image](image)
 ```
