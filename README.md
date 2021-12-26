@@ -13,6 +13,7 @@ My primary research interests include evolution and learning in games. I am also
 - "_**Graphon valued stochastic evolution in games**_" with Soumendu Sundar Mukherjee and Souvik Roy.
 
 # Talks and presentations
+- "_Regularized Bayesian best response learning in finite games_," (Learning, Evolution and Games, 2021)
 
 **Bold** and _Italic_ and `Code` text
 
