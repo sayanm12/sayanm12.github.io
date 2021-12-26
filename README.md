@@ -1,8 +1,7 @@
 # Welcome!
-I am a third year PhD student working under the supervision of [**Dr. Souvik Roy**](https://souvikroy.weebly.com/) in the [**_Economic Research Unit_**](https://www.isical.ac.in/units/economic-research-unit) at the [**_Indian Statistical Institute, Kolkata_**](https://www.isical.ac.in/). Prior to this, I completed my Masters in Statistics (M.Stat) from the Indian Statistical Institute, Kolkata. 
+I am a third year graduate student working under the supervision of [**Dr. Souvik Roy**](https://souvikroy.weebly.com/) in the [**_Economic Research Unit_**](https://www.isical.ac.in/units/economic-research-unit) at the [**_Indian Statistical Institute, Kolkata_**](https://www.isical.ac.in/). Prior to this, I completed my Masters in Statistics (M.Stat) from the Indian Statistical Institute, Kolkata. 
 
-My primary research interests include evolution and learning in games. I am also interested in various stochastic models arising in games.
-
+My primary research interests include dynamic models of deterministic and stochastic evolution and learning in complete/incomplete information games.
 # Research
 - "_**Generalized perturbed best response dynamics with a continuum of strategies**_" with Ratul Lahkar and Souvik Roy (forthcoming in **Journal of Economic Theory, 2021**).
 - "_**Regularized Bayesian best response learning in finite games**_" with Souvik Roy (submitted).
