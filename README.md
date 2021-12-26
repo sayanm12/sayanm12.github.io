@@ -1,5 +1,5 @@
 # About Me
-Welcome to my homepage!
+Welcome to my homepage! I am a third year PhD student working on evolution and learning in games under the supervision of Dr. Souvik Roy
 ## Header 2
 ### Header 3
 
