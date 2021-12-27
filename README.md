@@ -1,6 +1,8 @@
 # Welcome!
 I am a third year graduate student working under the supervision of [**_Dr. Souvik Roy_**](https://souvikroy.weebly.com/) in the [**_Economic Research Unit_**](https://www.isical.ac.in/units/economic-research-unit) at the [**_Indian Statistical Institute, Kolkata_**](https://www.isical.ac.in/). Prior to this, I completed my Masters in Statistics (M.Stat) from the Indian Statistical Institute, Kolkata. 
 
+Here is a copy of my CV.
+
 # Research Interests
 - Dynamic models of evolution and learning in games.
 - Bayesian evolution in games.
