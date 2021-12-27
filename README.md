@@ -8,7 +8,6 @@ Here is a copy of my CV.
 - Bayesian evolution in games.
 - Evolution of games on large networks.
 
-My primary research interests include dynamic models of deterministic and stochastic evolution and learning in complete/incomplete information games.
 # Research
 - "_**Generalized perturbed best response dynamics with a continuum of strategies**_" with Ratul Lahkar and Souvik Roy (forthcoming in **Journal of Economic Theory, 2021**).
 - "_**Regularized Bayesian best response learning in finite games**_" with Souvik Roy (submitted).
