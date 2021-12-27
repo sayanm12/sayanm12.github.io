@@ -18,7 +18,7 @@ Here is a copy of my CV.
 - "_**Graphon valued stochastic evolution in games**_" with Soumendu Sundar Mukherjee and Souvik Roy.
 
 # Talks and presentations
-- "_Regularized Bayesian best response learning in finite games_," (Learning, Evolution and Games, 2021)
+- "_Regularized Bayesian best response learning in finite games_," (Learning, Evolution and Games Conference, 2021)
 
 **Bold** and _Italic_ and `Code` text
 
