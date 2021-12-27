@@ -1,22 +1,3 @@
-{
-  "name": "Swapnil Mishra",
-  "short_name": "Swapnil Mishra",
-  "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
-  "icons": [{
-    "src": "../img/icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-    }, {
-    "src": "../img/icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-     }],
-  "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
-}
-
 # Welcome!
 I am a third year graduate student working under the supervision of [**_Dr. Souvik Roy_**](https://souvikroy.weebly.com/) in the [**_Economic Research Unit_**](https://www.isical.ac.in/units/economic-research-unit) at the [**_Indian Statistical Institute, Kolkata_**](https://www.isical.ac.in/). Prior to this, I completed my Masters in Statistics (M.Stat) from the Indian Statistical Institute, Kolkata. 
 
